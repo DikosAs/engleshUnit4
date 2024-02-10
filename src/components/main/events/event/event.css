@@ -1,0 +1,12 @@
+.event {
+  display: flex;
+
+  background-color: #2c616d;
+  border-radius: 15px;
+
+  h3 {
+    width: 100%;
+    color: #a0ced8;
+    margin: 1.2rem 2rem;
+  }
+}

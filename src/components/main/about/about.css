@@ -1,0 +1,30 @@
+.header {
+  text-align: center;
+
+  h1 {
+    font-family: Arial;
+    color: darkblue;
+    margin: 0 0 0.8rem 0;
+  }
+}
+
+.image {
+  display: flex;
+  justify-content: center;
+
+  margin-bottom: 1rem;
+
+  img {
+    margin: auto;
+    border-radius: 5px;
+    width: 75%;
+  }
+}
+
+.text {
+  margin: auto;
+  p {
+    margin: 0;
+    word-wrap: break-word;
+  }
+}

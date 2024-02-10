@@ -1,0 +1,25 @@
+.header__fix {
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  width: 100%;
+
+  background: var(--header_footer-background-color);
+
+  nav {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+    a {
+      display: flex;
+      justify-content: center;
+      align-content: center;
+      flex-wrap: wrap;
+
+      margin: 1rem;
+      color: var(--header_footer-color);
+    }
+  }
+}
