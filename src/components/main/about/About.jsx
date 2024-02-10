@@ -11,22 +11,23 @@ export default function About() {
         <img alt="" title="" height="" src={"https://shkolazavyalovskaya-r18.gosweb.gosuslugi.ru/netcat_files/20/260/IMG_1506.JPG"} />
       </div>
       <div className="text">
-        <p>1975 Самая первая школа в селе Завьялово возникла в 1853 году. </p>
-        <p>Через 52 года, в 1905 – 1906 учебном году открыта церковно – приходская школа. </p>
-        <p>В 1917 году школа преобразована в начальную, в 1930 – в неполную среднюю, 1939 - в среднюю. </p>
-        <p>В 1991 году в связи с открытием классов сельскохозяйственного направления в параллелях 8-11 классов и на
-          основании договора о сотрудничестве с Ижевской сельскохозяйственной академией школа переименована в
-          «Завьяловскую среднюю школу-колледж». </p>
-        <p>С 17 ноября 2000 года школа имеет статус «Завьяловская средняя общеобразовательная школа с углубленным
-          изучением отдельных предметов». </p>
-        <p>В 2011 году изменена организационно-правовая форма учреждения – муниципальное бюджетное общеобразовательное
-          учреждение. </p>
-        <p>В становлении средней школы сыграли большую роль директора разных лет: Баронов Михаил Васильевич, Бондарюк
-          Нина Филлиповна, Махнева Надежда Ивановна, Ершова Галина Александровна, Кузнецов Юрий Николаевич, Кощеева
-          Татьяна Витальевна, Дудырева Эльвира Сафиулловна. </p>
-        <p>С 2019 года руководит школой Мокрушина Надежда Анатольевна. </p>
-        <p>В настоящее время в школе обучается 2095 учеников в 79 классах - комплектах. Педагогический коллектив состоит
-          из 117 учителей. 17 преподавателей имеют высшую квалификационную категорию, 61 – первую. </p>
+        <p>1975 The very first school in the village of Zavyalovo was founded in 1853.
+
+          52 years later, in the 1905-1906 school year, a parochial school was opened.
+
+          In 1917, the school was transformed into an elementary school, in 1930 into a junior school, and in 1939 into a low-grade school.
+
+          In 1991, in connection with the opening of agricultural classes in the parallels of grades 8-11 and on the basis of an agreement on Great Britain with the Izhevsk Agricultural Academy, the school was renamed “Zavyalovskaya Secondary School-College”.
+
+          Since November 17, 2000, the school has been assigned the status of “Zavyalovskaya secondary school with in-depth study of individual subjects.”
+
+          In 2011, the organizational and legal form of education was changed - a municipal budgetary educational institution.
+
+          Principals of different years played a major role in the formation of the secondary school: Mikhail Vasilievich Baronov, Nina Fillipovna Bondaryuk, Nadezhda Ivanovna Makhneva, Galina Aleksandrovna Ershova, Yuri Nikolaevich Kuznetsov, Tatyana Vitalievna Koscheeva, Elvira Safiullovna Dudyreva.
+
+          Since 2019, the school has been headed by Nadezhda Anatolyevna Mokrushina.
+
+          Currently, the school teaches 2095 textbooks in 79 classes - sets. Teaching staff of 117 teachers. 17 teachers have the highest qualification category, 61 have the first.</p>
       </div>
     </main>
   )

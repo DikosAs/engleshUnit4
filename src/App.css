@@ -21,8 +21,7 @@ main {
   margin: 10px auto 0 auto;
   width: 80vw;
 
-  /*display: flex;*/
-  /*justify-content: center;*/
+  flex: 1 1 auto;
 }
 
 footer {
@@ -34,6 +33,8 @@ footer {
   align-items: center;
 
   color: var(--main-background-color);
+
+  min-height: 5rem;
 }
 
 @media (max-width: 500px) {

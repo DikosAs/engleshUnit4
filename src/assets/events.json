@@ -1,7 +1,10 @@
 [
   {
-    "title": "str",
-    "date": "date(dd.mm.YYYY)",
-    "description": "text"
+    "title": "Oral interview",
+    "date": "14.02.2024"
+  },
+  {
+    "title": "Tourist rally",
+    "date": "20.02.2024"
   }
 ]
